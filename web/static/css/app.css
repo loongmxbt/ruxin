@@ -1,0 +1,176 @@
+/* This file is for your main application css. */
+.site-header {
+	background-color: #EBEBEB;
+}
+
+.logo-text h3 {
+	margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.logo-text p {
+	font-family: Arial;
+	letter-spacing: 2px;
+}
+
+.section {
+    padding: 40px;
+}
+
+.content {
+	max-width: 960px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.content p {
+	font-size: 16px;
+	letter-spacing: 2px;
+	line-height: 2em;
+	text-indent: 2.2em;
+	text-align: justify;
+}
+
+.content img {
+	margin: 20px;
+}
+
+.content h3 {
+	font-size: 20px;
+	margin: 20px;
+	letter-spacing: 2px;
+}
+
+.content h4 {
+	font-weight: normal;
+	line-height: 2em;
+	letter-spacing: 2px;
+}
+
+.navbar-nav {
+	margin-top: 20px;
+}
+
+.navbar-nav li a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+    color: black;
+}
+
+.navbar-nav li a:hover {
+    border-bottom: 1px solid;
+}
+
+.carousel-control.left {
+    background-image: none;
+}
+
+.carousel-control.right {
+    background-image: none;
+}
+
+.footer {
+	margin: 0 auto;
+	color: #F7F7F7;
+	background-color: #5A5A5A;
+	padding: 40px;
+}
+
+.footer a {
+	color: #F7F7F7;
+}
+
+main {
+	background-color: #F7F7F7;
+}
+
+
+.category-section {
+	margin-top: 30px;
+}
+
+.category-item {
+	width: 120px;
+	height: 120px;
+}
+
+#vi-bg {
+	background-image: url(/images/home/vi-design.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#poster-bg {
+	background-image: url(/images/home/poster-design.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#package-bg {
+	background-image: url(/images/home/package-design.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#web-bg {
+	background-image: url(/images/home/web-design.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#album-bg {
+	background-image: url(/images/home/album-design.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#culture-bg {
+	background-image: url(/images/home/culture.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#activity-bg {
+	background-image: url(/images/home/activity.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#video-bg {
+	background-image: url(/images/home/video.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#mg-bg {
+	background-image: url(/images/home/mg-cartoon.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+#clothes-bg {
+	background-image: url(/images/home/clothes.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 100%;
+}
+
+.category-item .item-text {
+	position: absolute;
+	left: 28%;
+	top: 28%;
+	font-size: 20px;
+	color: #F7F7F7;
+}
+
+

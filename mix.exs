@@ -20,7 +20,7 @@ defmodule Ruxin.Mixfile do
     [mod: {Ruxin, []},
      applications: [:phoenix, :phoenix_pubsub, :phoenix_html, :cowboy, :logger, :gettext,
                     :phoenix_ecto, :postgrex,
-                    :ex_admin]]
+                    :ex_admin, :exactor]]
   end
 
   # Specifies which paths to compile per environment.

@@ -38,7 +38,8 @@ defmodule Ruxin.Mixfile do
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.13.1"},
      {:cowboy, "~> 1.0"},
-     {:ex_admin, "~> 0.8"}]
+     {:ex_admin, "~> 0.8"},
+     {:distillery, "~> 1.5", runtime: false}]
   end
 
   # Aliases are shortcuts or tasks specific to the current project.

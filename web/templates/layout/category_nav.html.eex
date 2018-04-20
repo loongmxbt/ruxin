@@ -1,0 +1,105 @@
+<section class="section category-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/vi-design">
+            <div id="vi-bg">
+              <span class="item-text text-center">V&nbsp;&nbsp;I<br>设计</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/vi-design">
+            <div id="poster-bg">
+              <span class="item-text text-center">海报<br>设计</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/package-design">
+            <div id="package-bg">
+              <span class="item-text text-center">包装<br>设计</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/web-design">
+            <div id="web-bg">
+              <span class="item-text text-center">网页<br>设计</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="album-bg">
+              <span class="item-text text-center">画册<br>设计</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>  
+    <br><br>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="culture-bg">
+              <span class="item-text text-center">文化<br>建设</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="activity-bg">
+              <span class="item-text text-center">活动<br>策划</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="video-bg">
+              <span class="item-text text-center">视频<br>制作</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="mg-bg">
+              <span class="item-text text-center">MG<br>动画</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="category-item">
+          <a href="/projects/album-design">
+            <div id="clothes-bg">
+              <span class="item-text text-center">团体<br>服装</span> 
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>  
+  </div>
+
+  
+</section>

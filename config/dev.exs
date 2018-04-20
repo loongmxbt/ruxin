@@ -41,3 +41,4 @@ config :ruxin, Ruxin.Repo,
   database: "ruxin_dev",
   hostname: "localhost",
   pool_size: 10
+

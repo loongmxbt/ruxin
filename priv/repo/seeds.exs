@@ -14,5 +14,12 @@
 alias Ruxin.{Repo, Project}
 
 Repo.insert!(%Project{slug: "vi-disgn", name: "VI设计"})
-Repo.insert!(%Project{slug: "vi-disgn", name: "VI设计"})
-Repo.insert!(%Project{slug: "vi-disgn", name: "VI设计"})
+Repo.insert!(%Project{slug: "poster-design", name: "海报设计"})
+Repo.insert!(%Project{slug: "package-design", name: "包装设计"})
+Repo.insert!(%Project{slug: "web-disgn", name: "网页设计"})
+Repo.insert!(%Project{slug: "album-disgn", name: "画册设计"})
+Repo.insert!(%Project{slug: "culture", name: "文化建设"})
+Repo.insert!(%Project{slug: "activity", name: "活动策划"})
+Repo.insert!(%Project{slug: "video", name: "视频制作"})
+Repo.insert!(%Project{slug: "mg-cartoon", name: "MG动画"})
+Repo.insert!(%Project{slug: "clothes", name: "团体服装"})

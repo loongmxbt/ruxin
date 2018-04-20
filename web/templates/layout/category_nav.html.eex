@@ -54,7 +54,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-2">
         <div class="category-item">
-          <a href="/projects/album-design">
+          <a href="/projects/culture">
             <div id="culture-bg">
               <span class="item-text text-center">文化<br>建设</span> 
             </div>
@@ -63,7 +63,7 @@
       </div>
       <div class="col-md-2">
         <div class="category-item">
-          <a href="/projects/album-design">
+          <a href="/projects/activity">
             <div id="activity-bg">
               <span class="item-text text-center">活动<br>策划</span> 
             </div>
@@ -72,7 +72,7 @@
       </div>
       <div class="col-md-2">
         <div class="category-item">
-          <a href="/projects/album-design">
+          <a href="/projects/video">
             <div id="video-bg">
               <span class="item-text text-center">视频<br>制作</span> 
             </div>
@@ -81,7 +81,7 @@
       </div>
       <div class="col-md-2">
         <div class="category-item">
-          <a href="/projects/album-design">
+          <a href="/projects/mg-cartoon">
             <div id="mg-bg">
               <span class="item-text text-center">MG<br>动画</span> 
             </div>
@@ -90,7 +90,7 @@
       </div>
       <div class="col-md-2">
         <div class="category-item">
-          <a href="/projects/album-design">
+          <a href="/projects/clothes">
             <div id="clothes-bg">
               <span class="item-text text-center">团体<br>服装</span> 
             </div>

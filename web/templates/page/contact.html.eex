@@ -29,17 +29,21 @@
 
 <section class="section">
   <div class="container">
+    <div class="row">
+        <div class="col-md-offset-3 col-md-6">
+            <div class="content text-center">
 
-    <div class="content">
-      <div class="logo text-center">
-        <h3>北京兴天悦达科技有限责任公司</h3>
-        <h4>办公室的电话： 010-61702130 </h4>
-        <h4>总经理电话： 186 1022 0932（郭昊）</h4>
-        <h4>总经理邮箱： guohao@xtyda.com</h4>
-        <h4>地址：北京市昌平区北清路2号院43号楼03号</h4>
-      </div>
-      
+                <h3>北京兴天悦达科技有限责任公司</h3>
+                <h4><i class="fa fa-phone" aria-hidden="true"></i> 办公室的电话： 010-61702130 </h4>
+                <h4><i class="fa fa-mobile" aria-hidden="true"></i> 总经理电话： 186 1022 0932（郭昊）</h4>
+                <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> 总经理邮箱： guohao@xtyda.com</h4>
+                <h4><i class="fa fa-map-marker" aria-hidden="true"></i> 地址：北京市昌平区北清路2号院43号楼03号</h4>
+
+              
+            </div>
+        </div>
     </div>
+    
 
     <div class="content">
       <div style="width:900px;height:480px;border:#ccc solid 1px;margin: 0 auto" id="dituContent"></div>

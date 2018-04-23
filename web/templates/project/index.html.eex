@@ -4,9 +4,61 @@
 
 
 
-<%= for project <- @projects do %>
-        
-  <%= link "Show", to: project_path(@conn, :show, project), class: "btn btn-default btn-xs" %>
-       
-<% end %>
-  
+<section class="section">
+  <div class="container">
+
+    <div class="content">
+      <div class="logo text-center">
+        <img src="/images/home/ruxin.png" alt="" width="200px">
+      </div>
+      <p>儒心，更专业的品牌服务商。我们拥有一支蓬勃向上的设计团队，成立以来不断承接来自各大企事业单位和社会团体的设计制作项目，以一流的设计与服务态度赢得业界好评，成为业界一颗迅速崛起的新星。对我们来说，将美妙的设计转变成现实是乐在其中的事。帮助客户获得商业上的成就更是令我们倍感自豪的事。 我们将一直秉承着上善若水的文化理念，将真挚的、富有灵魂的设计作品与服务呈现给世界。
+      </p>
+      <p>儒心，是北京兴天悦达科技有限责任公司（中关村高新技术企业）旗下的商业品牌，业务以设计为核心，涵盖品牌设计、楼宇文化设计、活动策划执行等。
+      </p>
+    </div>
+
+    
+    <div class="content">
+      <div class="logo text-center">
+        <img src="/images/home/logo.png" alt="" height="70px">
+        <h3>儒心logo释义</h3>
+      </div>
+      <p>基于儒心的英文字母RXI，融入共建儒心事业高楼的理念，相对分离的C的形象，代表着create，用心创造美好的企业使命，亦代表着创业之旅。儒心二字与“更专业的品牌服务商”slogan标语形成大楼的地基与平滑的RXI代表线条有机结合，寓意儒心的稳定、顺利的发展。
+      </p>
+      
+    </div>
+
+
+    <div class="content">
+      <div class="logo text-center">
+        <h3>SLOGAN</h3>
+        <h4>更专业的品牌服务商</h4>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="logo text-center">
+        <h3>使命</h3>
+        <h4>用心创造美好</h4>
+      </div>
+      
+    </div>
+
+    <div class="content">
+      <div class="logo text-center">
+        <h3>经营理念</h3>
+        <h4>上善若水</h4>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="logo text-center">
+        <h3>行为准则</h3>
+        <h4>仁、义、礼、智、信</h4>
+      </div>
+    </div>
+
+
+
+  </div>
+</section>

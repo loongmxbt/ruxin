@@ -3,6 +3,16 @@ defmodule Ruxin.ExAdmin.Project do
 
   register_resource Ruxin.Project do
     menu priority: 20, label: "案例"
+    
+    index do
+      selectable_column
+
+      column :slug
+      column :name
+      column :image
+      actions 
+    end
+
 
     form project do
     	inputs do

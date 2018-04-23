@@ -21,8 +21,8 @@ defmodule Ruxin.Router do
     get "/contact", PageController, :contact
     get "/intro", PageController, :intro
 
+    get "/projects", ProjectController, :index
     get "/projects/:slug", ProjectController, :show
-    resources "/projects", ProjectController
   end
 
   scope "/admin", ExAdmin do

@@ -26,8 +26,13 @@ defmodule Ruxin.ProjectController do
     end
   end
 
-  def show(conn, %{"id" => id}) do
-    project = Repo.get!(Project, id)
+  # def show(conn, %{"id" => id}) do
+  #   project = Repo.get!(Project, id)
+  #   render(conn, "show.html", project: project)
+  # end
+
+  def show(conn, %{"slug" => slug}) do
+    project = Repo.get_by!(Project, slug: slug)
     render(conn, "show.html", project: project)
   end
 

@@ -4,11 +4,10 @@
 
 
 
+<div class="container">
+  <div class="content">
+    <%= raw @project.content %>
+  </div>
+</div>
 
-<%= @project.content %>
 
-
-
-
-<%= link "Edit", to: project_path(@conn, :edit, @project) %>
-<%= link "Back", to: project_path(@conn, :index) %>

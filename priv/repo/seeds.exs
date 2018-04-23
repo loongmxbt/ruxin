@@ -13,7 +13,7 @@
 
 alias Ruxin.{Repo, Project}
 
-Repo.insert!(%Project{slug: "vi-disgn", name: "VI设计"})
+Repo.insert!(%Project{slug: "vi-design", name: "VI设计"})
 Repo.insert!(%Project{slug: "poster-design", name: "海报设计"})
 Repo.insert!(%Project{slug: "package-design", name: "包装设计"})
 Repo.insert!(%Project{slug: "web-disgn", name: "网页设计"})

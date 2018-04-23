@@ -32,6 +32,7 @@ config :xain, :after_callback, {Phoenix.HTML, :raw}
 config :ex_admin,
   repo: Ruxin.Repo,
   module: Ruxin,
+  head_template: {Ruxin.AdminView, "admin_layout.html"},
   modules: [
     Ruxin.ExAdmin.Dashboard,
     Ruxin.ExAdmin.Project,

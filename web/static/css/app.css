@@ -1,6 +1,9 @@
 /* This file is for your main application css. */
 .site-header {
-	background-color: #EBEBEB;
+	background-color: transparent;
+	position: absolute;
+	z-index: 1;
+	padding: 5px 20px;
 }
 
 .logo-text h3 {

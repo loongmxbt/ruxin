@@ -9,23 +9,23 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner1.jpg" alt="banner1">
+      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner1.jpg" alt="banner1" width="100%">
     </div>
     <div class="item">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner2.jpg" alt="banner2">
+      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner2.jpg" alt="banner2" width="100%">
     </div>
     <div class="item">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner3.jpg" alt="banner3">
+      <img src="http://p7bwvh5nm.bkt.clouddn.com/home.banner3.jpg" alt="banner3" width="100%">
     </div>
 
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control"  role="button" data-slide="prev">
+  <a class="left carousel-control"  role="button" data-slide="prev" href="#carousel-home">
     <span class="icon-prev" aria-hidden="true"></span>
     <span class="sr-only">Prev</span>
   </a>
-  <a class="right carousel-control"  role="button" data-slide="next">
+  <a class="right carousel-control"  role="button" data-slide="next" href="#carousel-home">
     <span class="icon-next" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

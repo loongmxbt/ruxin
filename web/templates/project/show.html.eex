@@ -10,4 +10,16 @@
   </div>
 </div>
 
+<script>
 
+
+  $('.content video').each(function(index, element) {
+  	var id = 'video-'+index;
+  	$(element).attr('id', id);
+  	// $(element).attr('class', 'video-js');
+  	// var player = videojs(id);
+  })
+
+	
+
+</script>

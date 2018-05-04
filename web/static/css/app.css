@@ -2,8 +2,11 @@
 .site-header {
 	background-color: transparent;
 	position: absolute;
-	z-index: 1;
-	padding: 5px 20px;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	right: 0;
+	/*padding: 5px 20px;*/
 }
 
 .logo-text h3 {

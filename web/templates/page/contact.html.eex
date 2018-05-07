@@ -1,4 +1,3 @@
-<%= render Ruxin.LayoutView, "carousel.html" %>
 
 <section class="section">
   <div class="container">
@@ -9,9 +8,9 @@
 
                 <h2 style="font-size: 24px;">北京兴天悦达科技有限责任公司</h2>
                 <br>
-                <h4><i class="fa fa-phone" aria-hidden="true"></i> 办公室的电话： 010-61702130 </h4>
-                <h4><i class="fa fa-mobile" aria-hidden="true"></i> 总经理电话： 186 1022 0932（郭昊）</h4>
-                <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> 总经理邮箱： guohao@xtyda.com</h4>
+                <h4><i class="fa fa-phone" aria-hidden="true"></i> 办公室电话： 010-80755357 </h4>
+                <h4><i class="fa fa-mobile" aria-hidden="true"></i> 公司电话： 186 1022 0932</h4>
+                <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> 公司邮箱： guohao@xtyda.com</h4>
                 <h4><i class="fa fa-map-marker" aria-hidden="true"></i> 地址：北京市昌平区北清路2号院43号楼03号</h4>
 
               

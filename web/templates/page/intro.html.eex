@@ -1,4 +1,3 @@
-<%= render Ruxin.LayoutView, "carousel.html" %>
 
 <section class="section">
   <div class="container">

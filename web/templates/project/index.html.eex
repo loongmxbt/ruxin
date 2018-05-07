@@ -1,4 +1,3 @@
-<%= render Ruxin.LayoutView, "carousel.html" %>
 
 <%= render Ruxin.LayoutView, "category_nav.html" %>
 

@@ -3,10 +3,12 @@
 <section class="section">
   <div class="container">
     <div class="row">
-        <div class="col-md-offset-3 col-md-6">
-            <div class="content text-center">
+        <div class="col-md-offset-4 col-md-6">
 
-                <h3>北京兴天悦达科技有限责任公司</h3>
+            <div class="content">
+
+                <h2 style="font-size: 24px;">北京兴天悦达科技有限责任公司</h2>
+                <br>
                 <h4><i class="fa fa-phone" aria-hidden="true"></i> 办公室的电话： 010-61702130 </h4>
                 <h4><i class="fa fa-mobile" aria-hidden="true"></i> 总经理电话： 186 1022 0932（郭昊）</h4>
                 <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> 总经理邮箱： guohao@xtyda.com</h4>

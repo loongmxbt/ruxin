@@ -16,7 +16,7 @@
     
   </head>
 
-  <body>
+  <body class="bg-grey">
     <%= render Ruxin.LayoutView, "header.html" %>
     <main>
       <%= render @view_module, @view_template, assigns %>

@@ -46,6 +46,7 @@
 	font-size: 20px;
 	margin: 20px;
 	letter-spacing: 2px;
+	font-weight: bold;
 }
 
 .content h4 {
@@ -102,70 +103,70 @@ body {
 }
 
 #vi-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/vi-design.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/vi-design.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #poster-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/poster-design.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/poster-design.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #package-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/package-design.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/package-design.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #web-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/web-design.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/web-design.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #album-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/album-design.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/album-design.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #culture-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/culture.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/culture.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #activity-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/activity.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/activity.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #video-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/video.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/video.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #mg-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/mg-cartoon.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/mg-cartoon.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;
 }
 
 #clothes-bg {
-	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/clothes.png);
+	background-image: url(http://p7bwvh5nm.bkt.clouddn.com/cate/clothes.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 100%;

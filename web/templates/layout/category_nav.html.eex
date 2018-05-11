@@ -1,8 +1,8 @@
 <section class="section category-section">
   <div class="container">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-2">
+      <div class="col-xs-1"></div>
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/vi-design">
             <div id="vi-bg">
@@ -11,7 +11,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/poster-design">
             <div id="poster-bg">
@@ -20,7 +20,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/package-design">
             <div id="package-bg">
@@ -29,7 +29,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/web-design">
             <div id="web-bg">
@@ -38,7 +38,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/album-design">
             <div id="album-bg">
@@ -47,12 +47,12 @@
           </a>
         </div>
       </div>
-      <div class="col-md-1"></div>
+      <div class="col-xs-1"></div>
     </div>  
     <br><br>
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-2">
+      <div class="col-xs-1"></div>
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/culture">
             <div id="culture-bg">
@@ -61,7 +61,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/activity">
             <div id="activity-bg">
@@ -70,7 +70,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/video">
             <div id="video-bg">
@@ -79,7 +79,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/mg-cartoon">
             <div id="mg-bg">
@@ -88,7 +88,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-2">
         <div class="category-item">
           <a href="/projects/clothes">
             <div id="clothes-bg">
@@ -97,7 +97,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-1"></div>
+      <div class="col-xs-1"></div>
     </div>  
   </div>
 

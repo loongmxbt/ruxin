@@ -1,11 +1,11 @@
 <footer class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-5">
+			<div class="col-xs-5">
 				<p>北京兴天悦达科技有限责任公司 &nbsp;&nbsp; 京ICP备16046497号</p>
 			</div>
-			<div class="col-md-2"></div>
-			<div class="col-md-5">
+			<div class="col-xs-2"></div>
+			<div class="col-xs-5">
 				<a href="/intro">公司简介</a>&nbsp;&nbsp;
 				<a href="/projects">案例作品</a>&nbsp;&nbsp;
 				<a href="/contact">联系我们</a>&nbsp;&nbsp;

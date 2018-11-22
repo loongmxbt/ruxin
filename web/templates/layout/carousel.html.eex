@@ -9,13 +9,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home-banner1.jpg" alt="banner1" width="100%">
+      <img src="http://cdn.rxidesign.com/home-banner1.jpg" alt="banner1" width="100%">
     </div>
     <div class="item">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home-banner2.jpg" alt="banner2" width="100%">
+      <img src="http://cdn.rxidesign.com/home-banner2.jpg" alt="banner2" width="100%">
     </div>
     <div class="item">
-      <img src="http://p7bwvh5nm.bkt.clouddn.com/home-banner3.jpg" alt="banner3" width="100%">
+      <img src="http://cdn.rxidesign.com/home-banner3.jpg" alt="banner3" width="100%">
     </div>
 
   </div>
